@@ -5,3 +5,5 @@ My team and I had a few thousand "Near Miss" events from the [Mine Safety and He
 The query system for the undergraduate opinions was Qualtrics. Most of our processing was done in a Jupyter Notebook. This visual was created in R using the `geom_tile` function inside `ggplot`.
 
 
+![near miss results compared to human judges](https://github.com/bhollan/LLM_Bars/blob/26bc83e9ba199f06a58d6773e7ac23d798f55543/near_miss_bars.png)
+
